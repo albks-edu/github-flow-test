@@ -1,2 +1,3 @@
 start feature-a
 update feature-a
+end feature-a
